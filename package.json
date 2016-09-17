@@ -1,0 +1,21 @@
+{
+  "name": "js_design_pattern",
+  "version": "1.0.0",
+  "description": "Design pattern for javascript study",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "hyeon",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.1"
+  }
+}
